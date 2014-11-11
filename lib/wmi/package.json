@@ -1,0 +1,13 @@
+{ 
+	"name": 		"wmi", 
+	"version":		"0.0.26",
+	"description": 	"A means to query Windows Management Instrumentation on Windows versions of NodeJS",
+	"main": 		"index.js",
+	"repository":	{ 
+						"type": 		"svn", 
+						"url": 			"https://xp-dev.com/svn/jimbobmcgee-nodejs/wmi/trunk", 
+						"revision": 	"26",
+						"commit_date":	"2014-11-10T19:47:37"
+					},
+	"notes":		"There were no uncommitted modifications in this build"
+}
