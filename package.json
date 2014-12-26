@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-probe-discover-monitor",
 	"description": "Tellki probe discover monitor",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": ["tellki","monitor","discover","probe","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
